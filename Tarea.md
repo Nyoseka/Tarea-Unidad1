@@ -33,7 +33,7 @@ ES la capacidad para crear una clase nueva a partir de una clase existente.
 ![alt text](https://3.bp.blogspot.com/-yRkQa_M1jB0/WLsgovvrhiI/AAAAAAAABfo/aAzD7YkDQ34zqIY73vdGFybEB8Bec8xrwCK4B/s1600/herencia.PNG)
 ![alt text](https://img-17.ccm2.net/OWEE9Lg8mDuWSbZcV_UZp7O2VhY=/44a281294dae41a69ebf2ad59d3583e1/ccm-encyclopedia/poo-images-animaux.gif)
 
-###UML: diagrama de clases
+### UML: diagrama de clases
 
 1. Investiga la historia y haz un resumen del Lenguaje de Modelado Unificado, donde se mencione: quienes son sus principales autores (Booch, Rumbaugh, Jacobson), en que tipo de sistemas se utiliza, en particular el Diagrama de Clases.
 El lenguaje UML se comenzó a usar en Octubre de 1994 cuando Rumbaugh se unió a la compañía Rational fundada por Booch. El objetivo de ambos era unificar dos métodos que habían desarrollado, el método Booch y el OMT (Objet Modelling Tool), el primer borrador apareció en 1995, para ese mismo año se les une a Rational, el investigador Jacobson, del cual se incluyeron ideas suyas.

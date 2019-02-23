@@ -35,7 +35,12 @@ ES la capacidad para crear una clase nueva a partir de una clase existente.
 
 ###UML: diagrama de clases
 
-1. Investiga la historia y haz un resumen del Lenguaje de Modelado Unificado, donde se mencione: quienes son sus principales autores (Booch, Rumbaugh, Jacobson), en que tipo de sistemas se utiliza, en particular el Diagrama de Clases. Menciona algunas de las herramientas para el modelado en UML. ¿Sabes de alguna empresa local que utilice este lenguaje?
+1. Investiga la historia y haz un resumen del Lenguaje de Modelado Unificado, donde se mencione: quienes son sus principales autores (Booch, Rumbaugh, Jacobson), en que tipo de sistemas se utiliza, en particular el Diagrama de Clases.
+El lenguaje UML se comenzó a usar en Octubre de 1994 cuando Rumbaugh se unió a la compañía Rational fundada por Booch. El objetivo de ambos era unificar dos métodos que habían desarrollado, el método Booch y el OMT (Objet Modelling Tool), el primer borrador apareció en 1995, para ese mismo año se les une a Rational, el investigador Jacobson, del cual se incluyeron ideas suyas.
+
+Además, este lenguaje se abrió a la colaboración de otras empresas para la aportación de ideas que formarían la primera versión del UML. La primera versión hace su aparición en 1997 ofrecido a un grupo de trabajadores del OMG (Object Management Group), para luego ser adoptada como estandar y con ello, proponer una serie de modificaciones y revisiones hasta llegar a la versión actual (Versión 1.4).
+
+ Menciona algunas de las herramientas para el modelado en UML. ¿Sabes de alguna empresa local que utilice este lenguaje?
   1.1. Permite expresar de forma gráfica un sistema de forma entendible.
   1.2. Permite especificar cuales son las caracteristicas de un sistema antes de su construcción.
   1.3. Apartir de un modelo específico se pueden construir sistemas diseñados.

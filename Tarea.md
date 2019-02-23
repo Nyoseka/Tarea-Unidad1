@@ -36,7 +36,13 @@ ES la capacidad para crear una clase nueva a partir de una clase existente.
 ###UML: diagrama de clases
 
 1. Investiga la historia y haz un resumen del Lenguaje de Modelado Unificado, donde se mencione: quienes son sus principales autores (Booch, Rumbaugh, Jacobson), en que tipo de sistemas se utiliza, en particular el Diagrama de Clases. Menciona algunas de las herramientas para el modelado en UML. ¿Sabes de alguna empresa local que utilice este lenguaje?
+  1.1. Permite expresar de forma gráfica un sistema de forma entendible.
+  1.2. Permite especificar cuales son las caracteristicas de un sistema antes de su construcción.
+  1.3. Apartir de un modelo específico se pueden construir sistemas diseñados.
+  1.4. Sirven como doumentación del sistema para su futura revisión.
 
 2. Escribe una propuesta de una máquina que venda distintos artículos y haz el diagrama de clases del sistema que propones. 
-
 Recuerda que puede haber composición (un teclado se compone de botones) y generalización (tipo de productos, tipo de pago).
+
+Diagrama: [1]
+[1]: https://www.lucidchart.com/invitations/accept/d2920f9e-f3cb-41ee-948f-ff9d1e7493b3

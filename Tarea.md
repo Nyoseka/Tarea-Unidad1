@@ -49,5 +49,5 @@ Además, este lenguaje se abrió a la colaboración de otras empresas para la ap
 2. Escribe una propuesta de una máquina que venda distintos artículos y haz el diagrama de clases del sistema que propones. 
 Recuerda que puede haber composición (un teclado se compone de botones) y generalización (tipo de productos, tipo de pago).
 
-Diagrama: [1]
-[1]: https://www.lucidchart.com/invitations/accept/d2920f9e-f3cb-41ee-948f-ff9d1e7493b3
+Diagrama:
+! [Imgur](https://i.imgur.com/slBijOI.png)

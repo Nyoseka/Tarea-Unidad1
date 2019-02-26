@@ -50,4 +50,4 @@ Además, este lenguaje se abrió a la colaboración de otras empresas para la ap
 Recuerda que puede haber composición (un teclado se compone de botones) y generalización (tipo de productos, tipo de pago).
 
 Diagrama:
-! [Imgur](https://i.imgur.com/slBijOI.png)
+![Imgur](https://i.imgur.com/slBijOI.png)
